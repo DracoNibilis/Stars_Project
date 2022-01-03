@@ -1,0 +1,9 @@
+Projects were made on:
+- Windows 10 Home, version 20H2,
+- Jupyter 6.3.0,
+- Python 3.8.8
+
+Python's packages used to create projects:
+- matplotlib.pyplot
+- pandas
+- numpy

@@ -22,3 +22,10 @@ Files included in the repository are:
 
 ### Explore the stars_project.ipynb file.
 
+The stars_project.ipynb file contains:
+- a theoretical background of stars classification,
+- description of variables ( Temperature, Mass, Radius, Luminosity, Class),
+- creations of variables and data set,
+- analysis of the data set and plots,
+- references.
+
